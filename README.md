@@ -24,3 +24,4 @@ In addition, there is a high-score leaderboard - showing the top 10 scorers of W
 
 <img src="Screenshot_2017_06_04_17_15_11.png" height="500"><img src="Screenshot_2017_06_04_17_17_17.png" height="500"><img src="Screenshot_2017_06_04_17_16_48.png" height="500">
 
+Copyright {2017} {Aviv Rahamim, Lior Reytan}
